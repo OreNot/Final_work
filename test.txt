@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test_5
+=======
+test
+remote branch
+>>>>>>> 11fda09c5eaa391ae58fd9195f27323e96b15680
